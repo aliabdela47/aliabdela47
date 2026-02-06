@@ -61,6 +61,6 @@
 ---
 
 ## 📫 Connect With Me
-🌐 [Portfolio Website](https://ali.et)  
-💻 [GitHub Pages](https://aliabdela47.github.io)  
-📧 aliabdela@example.com
+🌐 [Portfolio Website](https://aliabdela.site)
+💻 [GitHub Pages](https://aliabdela47.github.io)
+📧 info@ali.et
